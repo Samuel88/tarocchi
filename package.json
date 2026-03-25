@@ -1,0 +1,17 @@
+{
+  "name": "tarocchi",
+  "version": "1.0.0",
+  "description": "",
+  "type": "module",
+  "main": "generate.js",
+  "scripts": {
+    "create": "node --env-file .env generate.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "packageManager": "pnpm@10.31.0",
+  "dependencies": {
+    "replicate": "^1.4.0"
+  }
+}

@@ -1,0 +1,137 @@
+{
+  "negativePrompt": "color, colored, chromatic, sepia, blurry, watermark, text, letters, words, numbers, caption, title, label, bad anatomy, bad hands, deformed, extra fingers, extra limbs, fused fingers, missing fingers, mutated hands, poorly drawn hands, poorly drawn face, disfigured, duplicate, out of frame, cropped, low quality, jpeg artifacts, signature, username, 3d render, photorealistic, photo, cgi",
+  "cards": [
+    {
+      "index": 0,
+      "name": "0 — The Fool",
+      "filename": "the_fool",
+      "prompt": "masterpiece, best quality, ultra-detailed, tarot card illustration, young harlequin pierrot boy in diamond-patterned costume with round pom-pom buttons, Elizabethan ruff collar around neck, striped stockings, wild curly hair, carrying a branch with a small bindle over his shoulder, a small whimsical dog with a skull-like mask and flower mane collar beside him, large full moon glowing behind, wild flowers and delicate plants growing around his feet, carefree dancing pose mid-step, anime manga style, ink lineart, detailed crosshatching, ornate decorative border with floral vine corners, monochrome, black and white only, high contrast, no color, absolutely no text, no letters, no words, no numbers, no writing, no captions, no titles"
+    },
+    {
+      "index": 1,
+      "name": "I — The Magician",
+      "filename": "the_magician",
+      "prompt": "masterpiece, best quality, ultra-detailed, tarot card illustration, elegant young anime man in formal dark tailcoat suit with pale cravat, one arm raised holding a rose toward the sky, infinity symbol floating above his head, dark mysterious atmosphere, various mushrooms growing around him, pentacle symbol engraved on wooden table before him, crystal wine glass on table, small dragonfly hovering nearby, wavy hair falling over face, calm focused downward gaze, half-body portrait, anime manga style, ink lineart, detailed crosshatching, ornate decorative border with floral vine corners, monochrome, black and white only, high contrast, no color, absolutely no text, no letters, no words, no numbers, no writing, no captions, no titles"
+    },
+    {
+      "index": 2,
+      "name": "II — The High Priestess",
+      "filename": "the_high_priestess",
+      "prompt": "masterpiece, best quality, ultra-detailed, tarot card illustration, serene anime girl with very long dark wavy hair flowing down past her knees, elaborate lace veil and ornate lace dress with intricate patterns, seated between two classical pillars with decorative capitals, triple moon crown on her head with crescent and full moon shapes, holding a closed ancient leather-bound book with no visible text in her lap, ocean water visible behind her between the pillars, small stars scattered, large expressive eyes, ethereal doll-like beauty, frontal symmetry, anime manga style, ink lineart, detailed crosshatching, ornate decorative border with floral vine corners, monochrome, black and white only, high contrast, no color, absolutely no text, no letters, no words, no numbers, no writing, no captions, no titles"
+    },
+    {
+      "index": 3,
+      "name": "III — The Empress",
+      "filename": "the_empress",
+      "prompt": "masterpiece, best quality, ultra-detailed, tarot card illustration, beautiful anime girl with very long flowing dark hair billowing and waving outward dramatically, wearing a wide elegant gown, small flowers adorning her hair, small dangling earrings, radiant halo of sunburst rays behind her head, visibly pregnant belly with Venus symbol on it, ruffled collar decorated with small flowers, serene downcast eyes, gentle maternal expression, half-body portrait, centered composition, anime manga style, ink lineart, detailed crosshatching, ornate decorative border with floral vine corners, monochrome, black and white only, high contrast, no color, absolutely no text, no letters, no words, no numbers, no writing, no captions, no titles"
+    },
+    {
+      "index": 4,
+      "name": "IV — The Emperor",
+      "filename": "the_emperor",
+      "prompt": "masterpiece, best quality, ultra-detailed, tarot card illustration, imposing figure with a ram skull as his head, large curved horns, crown sitting atop the skull, long flowing beard-like fur, holding an ankh scepter in one hand, imperial orb with cross in the other hand, richly decorated robes with ornate geometric patterns, dark mountains in background, bare winter trees, powerful authoritative presence, half-body portrait, frontal centered composition, anime manga style, ink lineart, detailed crosshatching, ornate decorative border with floral vine corners, monochrome, black and white only, high contrast, no color, absolutely no text, no letters, no words, no numbers, no writing, no captions, no titles"
+    },
+    {
+      "index": 5,
+      "name": "V — The Hierophant",
+      "filename": "the_hierophant",
+      "prompt": "masterpiece, best quality, ultra-detailed, tarot card illustration, large majestic barn owl at center wearing an ornate crown, human hands emerging from the owl's feathered body, right hand holding a triple cross papal staff, left hand raised with two fingers in blessing gesture, two crossed ornate keys below the owl, two dark-haired anime girls kneeling in prayer on either side at the bottom, solemn sacred atmosphere, small stars scattered, symmetric frontal composition, anime manga style, ink lineart, detailed crosshatching, ornate decorative border with floral vine corners, monochrome, black and white only, high contrast, no color, absolutely no text, no letters, no words, no numbers, no writing, no captions, no titles"
+    },
+    {
+      "index": 6,
+      "name": "VI — The Lovers",
+      "filename": "the_lovers",
+      "prompt": "masterpiece, best quality, ultra-detailed, tarot card illustration, an anime man and woman kneeling and embracing each other intimately in a field of wild flowers, the man has small feathered wings on his back, radiant halo of light rays behind their intertwined heads, rolling hills and tall vegetation around them, tender passionate pose, flowing hair intertwined, delicate flowers and small butterflies scattered, centered vertical composition, anime manga style, ink lineart, detailed crosshatching, ornate decorative border with floral vine corners, monochrome, black and white only, high contrast, no color, absolutely no text, no letters, no words, no numbers, no writing, no captions, no titles"
+    },
+    {
+      "index": 7,
+      "name": "VII — The Chariot",
+      "filename": "the_chariot",
+      "prompt": "masterpiece, best quality, ultra-detailed, tarot card illustration, young anime girl wearing a lacy nightgown slip dress with a small ribbon bow, a knight's helmet with a large feather plume on her head, holding a short sword raised in one hand, sitting on a carousel-like wooden structure between a dark horse on the left and a light spotted horse on the right, castle walls and towers in the background, clouds in the sky, determined childlike expression, full body, centered composition, anime manga style, ink lineart, detailed crosshatching, ornate decorative border with floral vine corners, monochrome, black and white only, high contrast, no color, absolutely no text, no letters, no words, no numbers, no writing, no captions, no titles"
+    },
+    {
+      "index": 8,
+      "name": "VIII — Justice",
+      "filename": "justice",
+      "prompt": "masterpiece, best quality, ultra-detailed, tarot card illustration, anime girl with very long flowing pale hair reaching past her waist, small crown on head, wearing a dark fitted dress with feathered ruffled light collar, holding a long sword pointing downward with a balance scale hanging from the blade by a chain, small flowers in her hair and around her, serious calm neutral expression, standing pose, full moon glowing behind her head, half-body portrait, centered composition, anime manga style, ink lineart, detailed crosshatching, ornate decorative border with floral vine corners, monochrome, black and white only, high contrast, no color, absolutely no text, no letters, no words, no numbers, no writing, no captions, no titles"
+    },
+    {
+      "index": 9,
+      "name": "IX — The Hermit",
+      "filename": "the_hermit",
+      "prompt": "masterpiece, best quality, ultra-detailed, tarot card illustration, feminine anime figure seen in profile facing left, extremely long flowing dark hair cascading down to the ground and trailing behind, wearing a wide-brimmed pointed witch hat, long dark hooded cloak dragging on the ground, holding a glowing lantern stretched forward in one hand, walking through a dense forest of birch trees with pale trunks, dark mysterious woodland atmosphere, small glowing fireflies, side profile composition, anime manga style, ink lineart, detailed crosshatching, ornate decorative border with floral vine corners, monochrome, black and white only, high contrast, no color, absolutely no text, no letters, no words, no numbers, no writing, no captions, no titles"
+    },
+    {
+      "index": 10,
+      "name": "X — Wheel of Fortune",
+      "filename": "wheel_of_fortune",
+      "prompt": "masterpiece, best quality, ultra-detailed, tarot card illustration, large ornate wheel with compass-like rays at center, two serpents intertwining symmetrically around the wheel, one light-toned with spot patterns and one dark-toned, small alchemical triangle symbols at top and bottom, zodiac constellation line drawings in the four corners, dark night sky background, mystical occult atmosphere, no human figures, perfectly symmetric centered composition, anime manga style, ink lineart, detailed crosshatching, ornate decorative border with floral vine corners, monochrome, black and white only, high contrast, no color, absolutely no text, no letters, no words, no numbers, no writing, no captions, no titles"
+    },
+    {
+      "index": 11,
+      "name": "XI — Strength",
+      "filename": "strength",
+      "prompt": "masterpiece, best quality, ultra-detailed, tarot card illustration, anime girl with very long flowing dark hair dramatically emerging from the wide open jaws of a massive dark beast wolf with a visible glowing eye, her upper body rising gracefully out of the creature's mouth, full moon behind her, rays of light radiating outward, powerful dynamic pose, fearless serene expression, the beast's sharp teeth visible around her, dramatic composition, anime manga style, ink lineart, detailed crosshatching, ornate decorative border with floral vine corners, monochrome, black and white only, high contrast, no color, absolutely no text, no letters, no words, no numbers, no writing, no captions, no titles"
+    },
+    {
+      "index": 12,
+      "name": "XII — The Hanged Man",
+      "filename": "the_hanged_man",
+      "prompt": "masterpiece, best quality, ultra-detailed, tarot card illustration, young anime man hanging upside down from a birch tree branch with pale bark, bound by his right ankle, dark serpents coiling and wrapping around his body and legs, wearing casual modern trousers and a shirt lifted to reveal his abdomen, a small tattoo marking on his arm, messy dark hair hanging downward, leaves falling around him, serene peaceful expression with closed eyes, birch tree with pale bark and leaves above, anime manga style, ink lineart, detailed crosshatching, ornate decorative border with floral vine corners, monochrome, black and white only, high contrast, no color, absolutely no text, no letters, no words, no numbers, no writing, no captions, no titles"
+    },
+    {
+      "index": 13,
+      "name": "XIII — Death",
+      "filename": "death",
+      "prompt": "masterpiece, best quality, ultra-detailed, tarot card illustration, tall slender standing figure wrapped in multiple layered dark cloaks and capes with decorative zigzag trim along the edges, wearing a goat skull mask as a face, pale thin hands emerging from wide sleeves, skeletal bare feet visible beneath the cloaks, bare dead trees and twisted branches surrounding the figure, misty desolate foggy landscape, a fallen crown lying on the ground at the figure's feet, eerie haunting atmosphere, full body, centered frontal composition, anime manga style, ink lineart, detailed crosshatching, ornate decorative border with floral vine corners, monochrome, black and white only, high contrast, no color, absolutely no text, no letters, no words, no numbers, no writing, no captions, no titles"
+    },
+    {
+      "index": 14,
+      "name": "XIV — Temperance",
+      "filename": "temperance",
+      "prompt": "masterpiece, best quality, ultra-detailed, tarot card illustration, ethereal anime girl with very long wavy dark hair, eyes gently closed, holding two cups from which a sinuous ribbon of liquid flows gracefully between them in a continuous stream, surrounded by botanical elements with leaves and branches, flowers blooming around her, small koi fish swimming near the bottom, soft delicate dreamy atmosphere, gentle serene expression, half-body portrait, centered composition, anime manga style, ink lineart, detailed crosshatching, ornate decorative border with floral vine corners, monochrome, black and white only, high contrast, no color, absolutely no text, no letters, no words, no numbers, no writing, no captions, no titles"
+    },
+    {
+      "index": 15,
+      "name": "XV — The Devil",
+      "filename": "the_devil",
+      "prompt": "masterpiece, best quality, ultra-detailed, tarot card illustration, anime girl standing in frontal pose, long straight dark hair, an animal skull with large curved ram horns floating above her head like a sinister headdress, engulfed in flames and fire all around her body, dark oppressive sinister atmosphere, eyes closed, haunting unsettling mood, full body, centered symmetric composition, anime manga style, ink lineart, detailed crosshatching, ornate decorative border with floral vine corners, monochrome, black and white only, high contrast, no color, absolutely no text, no letters, no words, no numbers, no writing, no captions, no titles"
+    },
+    {
+      "index": 16,
+      "name": "XVI — The Tower",
+      "filename": "the_tower",
+      "prompt": "masterpiece, best quality, ultra-detailed, tarot card illustration, whimsical surreal scene, a tower made of stacked plain wooden toy building blocks being knocked over by the large paw of a dark cat swiping from the right side, a cute teddy bear with a lace collar sitting beside the tumbling blocks, a small music box carousel figurine nearby, a crown tumbling off the top of the block tower, diamond harlequin pattern background, playful yet ominous atmosphere, centered composition, anime manga style, ink lineart, detailed crosshatching, ornate decorative border with floral vine corners, monochrome, black and white only, high contrast, no color, absolutely no text, no letters, no words, no numbers, no writing, no captions, no titles"
+    },
+    {
+      "index": 17,
+      "name": "XVII — The Star",
+      "filename": "the_star",
+      "prompt": "masterpiece, best quality, ultra-detailed, tarot card illustration, anime girl with very long flowing pale silvery hair tied with a small ribbon bow, wearing a long Victorian-style dress with lace trim and ruffles, standing and gazing upward with an expression of wonder and hope, one large brilliant eight-pointed star shining brightly above her, several smaller stars scattered around in the sky, rays of light emanating from the main star downward, soft luminous glowing atmosphere, full body, centered composition, anime manga style, ink lineart, detailed crosshatching, ornate decorative border with floral vine corners, monochrome, black and white only, high contrast, no color, absolutely no text, no letters, no words, no numbers, no writing, no captions, no titles"
+    },
+    {
+      "index": 18,
+      "name": "XVIII — The Moon",
+      "filename": "the_moon",
+      "prompt": "masterpiece, best quality, ultra-detailed, tarot card illustration, large dark eclipsed moon in the center of the sky with a single open eye in the middle of it, two crescent moons flanking it on either side, dark drops falling downward from the moon, a light-furred wolf and a dark-furred wolf howling upward facing each other below, a small moth creature standing between the two wolves at the bottom, dark mysterious night atmosphere, rays emanating from the moon, symmetric centered composition, anime manga style, ink lineart, detailed crosshatching, ornate decorative border with floral vine corners, monochrome, black and white only, high contrast, no color, absolutely no text, no letters, no words, no numbers, no writing, no captions, no titles"
+    },
+    {
+      "index": 19,
+      "name": "XIX — The Sun",
+      "filename": "the_sun",
+      "prompt": "masterpiece, best quality, ultra-detailed, tarot card illustration, anthropomorphic fox character with pointed ears wearing a striped shirt and scarf, riding a pale rocking horse with small bells, dense sunflowers filling the entire background on both sides, large full sun disc shining above, joyful triumphant atmosphere, whimsical storybook feel, full body, centered composition, anime manga style, ink lineart, detailed crosshatching, ornate decorative border with floral vine corners, monochrome, black and white only, high contrast, no color, absolutely no text, no letters, no words, no numbers, no writing, no captions, no titles"
+    },
+    {
+      "index": 20,
+      "name": "XX — Judgement",
+      "filename": "judgement",
+      "prompt": "masterpiece, best quality, ultra-detailed, tarot card illustration, many hands and arms in varying tones of gray reaching desperately upward from the bottom of the card stretching toward the sky, a single large eye at the top of the card gazing downward with a single teardrop falling from it, dramatic surreal atmospheric composition, no angel, no coffins, abstract spiritual awakening, haunting powerful imagery, vertical composition, anime manga style, ink lineart, detailed crosshatching, ornate decorative border with floral vine corners, monochrome, black and white only, high contrast, no color, absolutely no text, no letters, no words, no numbers, no writing, no captions, no titles"
+    },
+    {
+      "index": 21,
+      "name": "XXI — The World",
+      "filename": "the_world",
+      "prompt": "masterpiece, best quality, ultra-detailed, tarot card illustration, sacred geometry mandala at center with interlocking triangles and circles forming a hexagram star and triquetra celtic knot pattern, surrounded by lush roses and blooming flowers, botanical leaves and vines wrapping around the geometric shapes, small alchemical planetary symbols scattered, a moth perched at the top, a snake skeleton weaving through the botanical elements, no human figure, perfectly symmetric ornate centered composition, anime manga style, ink lineart, detailed crosshatching, ornate decorative border with floral vine corners, monochrome, black and white only, high contrast, no color, absolutely no text, no letters, no words, no numbers, no writing, no captions, no titles"
+    }
+  ]
+}
